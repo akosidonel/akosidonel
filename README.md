@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reydonel Martinez Alfante</h1>
 <h3 align="center">A passionate full-stack developer from Philippines</h3>
 
-- 🔭 I’m currently working on [Inventory Management System](https://github.com/akosidonel/Project-1)
+- 🔭 I’m currently working on [Property Tracking Management System(PTMS)](https://github.com/akosidonel/gso-master) and [Special Program for Employment of Students Management System(SPESMS)](https://github.com/akosidonel/spes-program)
 
 - 🌱 I’m currently learning **React JS, Laravel**
 
